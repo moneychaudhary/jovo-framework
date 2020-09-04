@@ -14,7 +14,7 @@
   "author": "jovotech",
   "license": "Apache-2.0",
   "dependencies": {
-    "airtable": "^0.5.9",
+    "airtable": "^0.7.2",
     "i18next": "^15.0.8",
     "jovo-core": "^2.2.8",
     "lodash.clonedeep": "^4.5.0",
